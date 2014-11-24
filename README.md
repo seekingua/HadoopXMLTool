@@ -1,7 +1,7 @@
 ﻿HadoopXMLTool
 =============
 
-hadoop用来解析处理XML文件的组件, 利用MapReduce对大XML文件进行解析处理, 实例看DemoMain.java
+利用MapReduce对大XML文件进行解析处理, 实例看DemoMain.java
 
 ###1、	参数说明
 	
