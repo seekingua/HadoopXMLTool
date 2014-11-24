@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bulkPmMrDataFile>
+	<rnc>
+		<class>
+			<measurement>
+				<object>
+					... ...
+				</object>
+				<smr>
+					... ...
+				</smr>
+				<object>
+					... ...
+				</object>
+				<smr>
+					... ...
+				</smr>
+				<object>
+					... ...
+				</object>
+				<smr>
+					... ...
+				</smr>
+			</measurement>
+		</class>
+	</rnc>
+</bulkPmMrDataFile>
