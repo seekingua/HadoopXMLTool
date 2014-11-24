@@ -38,7 +38,7 @@ hadoop用来解析处理XML文件的组件, 利用MapReduce对大XML文件进行
 		3) org.sr.hadoop.xml.XmlRecordReader 用于构造xml分块数据
 		4) org.sr.hadoop.xml.XmlSplit xml split分块对象类
 		
-		4) org.sr.hadoop.xml.DemoMain 测试MapReduce
+		5) org.sr.hadoop.xml.DemoMain 测试MapReduce
 		
 		
 ###4、	程序执行
